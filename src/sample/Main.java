@@ -20,6 +20,10 @@ import org.w3c.dom.Text;
 
 import javax.swing.*;
 
+//--module-path /Users/s3757937/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml
+// => Imac
+
+
 public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
