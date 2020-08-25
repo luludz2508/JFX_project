@@ -55,9 +55,9 @@ public class lab1 extends Application {
         primaryStage.setScene(scene);
         primaryStage.show();
     }
-    void setleft(){
-        if (circle.getCenterX()>=15) {
-            circle.setCenterX(circle.getCenterX()-5);
+    void setleft() {
+        if (circle.getCenterX() >= 15) {
+            circle.setCenterX(circle.getCenterX() - 5);
         }
     }
     void setright(){
